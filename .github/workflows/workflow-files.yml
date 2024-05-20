@@ -9,4 +9,4 @@ jobs:
      - name: Executando o STEP1
        run:
         echo Esse processo carrega uma mensagem
-        echo basica para entender o workflow (QA)
+        echo basica para entender o workflow QA
